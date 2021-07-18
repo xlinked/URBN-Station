@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URBNStationStore", "MyMvcStore\URBNStationStore.csproj", "{5F24C757-1B95-400C-8678-601EDAEBFF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F24C757-1B95-400C-8678-601EDAEBFF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F24C757-1B95-400C-8678-601EDAEBFF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F24C757-1B95-400C-8678-601EDAEBFF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F24C757-1B95-400C-8678-601EDAEBFF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7263D4F4-87F1-4972-A3A8-633CBAF71E9C}
+	EndGlobalSection
+EndGlobal
